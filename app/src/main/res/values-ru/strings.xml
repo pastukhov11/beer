@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Beer Adviser</string>
+    <string name="app_name">Пивной советник</string>
     <string name="find_beer">Найти пиво!</string>
-    <string name="hello_world">hello_world</string>
+
+    <string-array name="beer_colors">
+        <item>светлое</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>темное</item>
+    </string-array>
+    <string name="brands"></string>
 </resources>
