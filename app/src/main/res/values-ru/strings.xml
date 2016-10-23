@@ -5,8 +5,8 @@
 
     <string-array name="beer_colors">
         <item>светлое</item>
-        <item>amber</item>
-        <item>brown</item>
+        <item>янтарное</item>
+        <item>коричневое</item>
         <item>темное</item>
     </string-array>
     <string name="brands"></string>
